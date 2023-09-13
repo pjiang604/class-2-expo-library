@@ -21,3 +21,5 @@ npm install @rneui/themed @rneui/base
 * [Button](https://reactnativeelements.com/docs/components/button)
 * [Checkbox](https://reactnativeelements.com/docs/components/checkbox)
 * [Rating](https://reactnativeelements.com/docs/components/rating)
+* [Tab](https://reactnativeelements.com/docs/components/tab)
+* [FAB](https://reactnativeelements.com/docs/components/fab)
