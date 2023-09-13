@@ -13,6 +13,7 @@ export default function Home({ navigation }) {
     return (
         <View style={styles.container}>
             <Button
+                color="secondary"
                 title={'I am a button to press'}
                 containerStyle={{
                     width: 200,
