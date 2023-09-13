@@ -13,11 +13,11 @@ npx expo install react-native-screens react-native-safe-area-context
 [Stack Navigator](https://reactnavigation.org/docs/native-stack-navigator/)
 npm install @react-navigation/native-stack
 
-# React Native Elements
+# Class 2
 [Installation](https://reactnativeelements.com/docs/installation)
 npm install @rneui/themed @rneui/base
 
-## Components
+## Installations
 * [Button](https://reactnativeelements.com/docs/components/button)
 * [Checkbox](https://reactnativeelements.com/docs/components/checkbox)
 * [Rating](https://reactnativeelements.com/docs/components/rating)
